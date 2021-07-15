@@ -1,0 +1,15 @@
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\bin\x64\Debug\MaterialManagement.exe.config
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\bin\x64\Debug\MaterialManagement.exe
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\bin\x64\Debug\MaterialManagement.pdb
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\bin\x64\Debug\DealCamera.dll
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\bin\x64\Debug\System.Data.SQLite.dll
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\bin\x64\Debug\System.Data.SQLite.pdb
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\obj\x64\Debug\MaterialManagement.Form1.resources
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\obj\x64\Debug\MaterialManagement.Form2.resources
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\obj\x64\Debug\MaterialManagement.Form3.resources
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\obj\x64\Debug\MaterialManagement.Form4.resources
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\obj\x64\Debug\MaterialManagement.Properties.Resources.resources
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\obj\x64\Debug\MaterialManagement.csproj.GenerateResource.Cache
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\obj\x64\Debug\MaterialManagement.exe
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\obj\x64\Debug\MaterialManagement.pdb
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\obj\x64\Debug\MaterialManagement.csprojResolveAssemblyReference.cache

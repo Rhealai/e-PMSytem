@@ -1,0 +1,12 @@
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\bin\Release\MaterialManagement.exe.config
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\bin\Release\MaterialManagement.exe
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\bin\Release\DealCamera.dll
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\bin\Release\System.Data.SQLite.dll
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\bin\Release\System.Data.SQLite.pdb
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\obj\Release\MaterialManagement.Form1.resources
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\obj\Release\MaterialManagement.Form2.resources
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\obj\Release\MaterialManagement.Form3.resources
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\obj\Release\MaterialManagement.Form4.resources
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\obj\Release\MaterialManagement.Properties.Resources.resources
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\obj\Release\MaterialManagement.csproj.GenerateResource.Cache
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\obj\Release\MaterialManagement.exe

@@ -1,0 +1,28 @@
+C:\Documents and Settings\RioSim\My Documents\Visual Studio 2010\Projects\MaterialManagement\MaterialManagement\bin\Release\MaterialManagement.exe
+C:\Documents and Settings\RioSim\My Documents\Visual Studio 2010\Projects\MaterialManagement\MaterialManagement\bin\Release\MaterialManagement.pdb
+C:\Documents and Settings\RioSim\My Documents\Visual Studio 2010\Projects\MaterialManagement\MaterialManagement\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\RioSim\My Documents\Visual Studio 2010\Projects\MaterialManagement\MaterialManagement\obj\x86\Release\MaterialManagement.Form1.resources
+C:\Documents and Settings\RioSim\My Documents\Visual Studio 2010\Projects\MaterialManagement\MaterialManagement\obj\x86\Release\MaterialManagement.Properties.Resources.resources
+C:\Documents and Settings\RioSim\My Documents\Visual Studio 2010\Projects\MaterialManagement\MaterialManagement\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\RioSim\My Documents\Visual Studio 2010\Projects\MaterialManagement\MaterialManagement\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\RioSim\My Documents\Visual Studio 2010\Projects\MaterialManagement\MaterialManagement\obj\x86\Release\MaterialManagement.exe
+C:\Documents and Settings\RioSim\My Documents\Visual Studio 2010\Projects\MaterialManagement\MaterialManagement\obj\x86\Release\MaterialManagement.pdb
+\\192.168.1.218\Users\rioyclai\temp_download\C#\MaterialManagement\MaterialManagement\obj\x86\Release\MaterialManagement.exe
+\\192.168.1.218\Users\rioyclai\temp_download\C#\MaterialManagement\MaterialManagement\obj\x86\Release\MaterialManagement.pdb
+C:\Documents and Settings\RioSim\My Documents\Visual Studio 2010\Projects\MaterialManagement\MaterialManagement\bin\Release\DealCamera.dll
+C:\Documents and Settings\RioSim\My Documents\Visual Studio 2010\Projects\MaterialManagement\MaterialManagement\obj\x86\Release\MaterialManagement.Form2.resources
+C:\Documents and Settings\RioSim\My Documents\Visual Studio 2010\Projects\MaterialManagement\MaterialManagement\obj\x86\Release\MaterialManagement.Form3.resources
+C:\Documents and Settings\RioSim\My Documents\Visual Studio 2010\Projects\MaterialManagement\MaterialManagement\obj\x86\Release\MaterialManagement.Form4.resources
+\\192.168.1.218\home\HomeMade\MaterialManagement\MaterialManagement\obj\x86\Release\MaterialManagement.exe
+\\192.168.1.218\home\HomeMade\MaterialManagement\MaterialManagement\obj\x86\Release\MaterialManagement.pdb
+\\192.168.1.218\home\HomeMade\MaterialManagement\MaterialManagement\bin\Release\MaterialManagement.exe
+\\192.168.1.218\home\HomeMade\MaterialManagement\MaterialManagement\bin\Release\MaterialManagement.pdb
+\\192.168.1.218\home\HomeMade\MaterialManagement\MaterialManagement\bin\Release\DealCamera.dll
+\\192.168.1.218\home\HomeMade\MaterialManagement\MaterialManagement\obj\x86\Release\ResolveAssemblyReference.cache
+\\192.168.1.218\home\HomeMade\MaterialManagement\MaterialManagement\obj\x86\Release\MaterialManagement.Form1.resources
+\\192.168.1.218\home\HomeMade\MaterialManagement\MaterialManagement\obj\x86\Release\MaterialManagement.Form2.resources
+\\192.168.1.218\home\HomeMade\MaterialManagement\MaterialManagement\obj\x86\Release\MaterialManagement.Form3.resources
+\\192.168.1.218\home\HomeMade\MaterialManagement\MaterialManagement\obj\x86\Release\MaterialManagement.Form4.resources
+\\192.168.1.218\home\HomeMade\MaterialManagement\MaterialManagement\obj\x86\Release\MaterialManagement.Properties.Resources.resources
+\\192.168.1.218\home\HomeMade\MaterialManagement\MaterialManagement\obj\x86\Release\GenerateResource.read.1.tlog
+\\192.168.1.218\home\HomeMade\MaterialManagement\MaterialManagement\obj\x86\Release\GenerateResource.write.1.tlog

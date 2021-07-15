@@ -1,0 +1,75 @@
+C:\Documents and Settings\RioSim\My Documents\Visual Studio 2010\Projects\MaterialManagement\MaterialManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\RioSim\My Documents\Visual Studio 2010\Projects\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.Form1.resources
+C:\Documents and Settings\RioSim\My Documents\Visual Studio 2010\Projects\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.Properties.Resources.resources
+C:\Documents and Settings\RioSim\My Documents\Visual Studio 2010\Projects\MaterialManagement\MaterialManagement\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\RioSim\My Documents\Visual Studio 2010\Projects\MaterialManagement\MaterialManagement\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\RioSim\My Documents\Visual Studio 2010\Projects\MaterialManagement\MaterialManagement\bin\Debug\MaterialManagement.exe
+C:\Documents and Settings\RioSim\My Documents\Visual Studio 2010\Projects\MaterialManagement\MaterialManagement\bin\Debug\MaterialManagement.pdb
+C:\Documents and Settings\RioSim\My Documents\Visual Studio 2010\Projects\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.exe
+C:\Documents and Settings\RioSim\My Documents\Visual Studio 2010\Projects\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.pdb
+\\192.168.1.218\Users\rioyclai\temp_download\C#\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.exe
+\\192.168.1.218\Users\rioyclai\temp_download\C#\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.pdb
+S:\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.exe
+S:\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.pdb
+S:\MaterialManagement\MaterialManagement\bin\Debug\MaterialManagement.exe
+S:\MaterialManagement\MaterialManagement\bin\Debug\MaterialManagement.pdb
+S:\MaterialManagement\MaterialManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.Form1.resources
+S:\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.Properties.Resources.resources
+S:\MaterialManagement\MaterialManagement\obj\x86\Debug\GenerateResource.read.1.tlog
+S:\MaterialManagement\MaterialManagement\obj\x86\Debug\GenerateResource.write.1.tlog
+S:\C#\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.exe
+S:\C#\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.pdb
+S:\C#\MaterialManagement\MaterialManagement\bin\Debug\MaterialManagement.exe
+S:\C#\MaterialManagement\MaterialManagement\bin\Debug\MaterialManagement.pdb
+S:\C#\MaterialManagement\MaterialManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\C#\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.Form1.resources
+S:\C#\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.Properties.Resources.resources
+S:\C#\MaterialManagement\MaterialManagement\obj\x86\Debug\GenerateResource.read.1.tlog
+S:\C#\MaterialManagement\MaterialManagement\obj\x86\Debug\GenerateResource.write.1.tlog
+S:\temp_download\C#\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.exe
+S:\temp_download\C#\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.pdb
+S:\temp_download\C#\MaterialManagement\MaterialManagement\bin\Debug\MaterialManagement.exe
+S:\temp_download\C#\MaterialManagement\MaterialManagement\bin\Debug\MaterialManagement.pdb
+S:\temp_download\C#\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.csprojResolveAssemblyReference.cache
+S:\temp_download\C#\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.Form1.resources
+S:\temp_download\C#\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.Properties.Resources.resources
+S:\temp_download\C#\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.csproj.GenerateResource.Cache
+S:\temp_download\C#\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.Form2.resources
+S:\temp_download\C#\MaterialManagement\MaterialManagement\bin\Debug\DealCamera.dll
+S:\temp_download\C#\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.Form3.resources
+S:\temp_download\C#\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.Form4.resources
+\\192.168.1.218\home\HomeMade\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.exe
+\\192.168.1.218\home\HomeMade\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.pdb
+\\192.168.1.218\home\HomeMade\MaterialManagement\MaterialManagement\bin\Debug\MaterialManagement.exe
+\\192.168.1.218\home\HomeMade\MaterialManagement\MaterialManagement\bin\Debug\MaterialManagement.pdb
+\\192.168.1.218\home\HomeMade\MaterialManagement\MaterialManagement\bin\Debug\DealCamera.dll
+\\192.168.1.218\home\HomeMade\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.Form1.resources
+\\192.168.1.218\home\HomeMade\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.Form2.resources
+\\192.168.1.218\home\HomeMade\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.Form3.resources
+\\192.168.1.218\home\HomeMade\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.Form4.resources
+\\192.168.1.218\home\HomeMade\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.Properties.Resources.resources
+C:\Documents and Settings\RioSim\My Documents\Visual Studio 2010\Projects\MaterialManagement\MaterialManagement\bin\Debug\DealCamera.dll
+C:\Documents and Settings\RioSim\My Documents\Visual Studio 2010\Projects\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.Form2.resources
+C:\Documents and Settings\RioSim\My Documents\Visual Studio 2010\Projects\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.Form3.resources
+C:\Documents and Settings\RioSim\My Documents\Visual Studio 2010\Projects\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.Form4.resources
+\\192.168.1.218\home\HomeMade\MaterialManagement\MaterialManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+\\192.168.1.218\home\HomeMade\MaterialManagement\MaterialManagement\obj\x86\Debug\GenerateResource.read.1.tlog
+\\192.168.1.218\home\HomeMade\MaterialManagement\MaterialManagement\obj\x86\Debug\GenerateResource.write.1.tlog
+R:\MaterialManagement\obj\x86\Debug\MaterialManagement.exe
+R:\MaterialManagement\obj\x86\Debug\MaterialManagement.pdb
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.exe
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.pdb
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.csprojResolveAssemblyReference.cache
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.Form1.resources
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.Form2.resources
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.Form3.resources
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.Form4.resources
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.Properties.Resources.resources
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\obj\x86\Debug\MaterialManagement.csproj.GenerateResource.Cache
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\bin\Debug\MaterialManagement.exe.config
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\bin\Debug\MaterialManagement.exe
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\bin\Debug\MaterialManagement.pdb
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\bin\Debug\DealCamera.dll
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\bin\Debug\System.Data.SQLite.dll
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\bin\Debug\System.Data.SQLite.pdb

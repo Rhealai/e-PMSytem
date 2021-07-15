@@ -1,0 +1,15 @@
+S:\CodeFiles\e-PMS\MaterialManagement\bin\Debug\MaterialManagement.exe.config
+S:\CodeFiles\e-PMS\MaterialManagement\bin\Debug\MaterialManagement.exe
+S:\CodeFiles\e-PMS\MaterialManagement\bin\Debug\MaterialManagement.pdb
+S:\CodeFiles\e-PMS\MaterialManagement\bin\Debug\DealCamera.dll
+S:\CodeFiles\e-PMS\MaterialManagement\bin\Debug\System.Data.SQLite.dll
+S:\CodeFiles\e-PMS\MaterialManagement\bin\Debug\System.Data.SQLite.pdb
+S:\CodeFiles\e-PMS\MaterialManagement\obj\Debug\e-PMSystem.csprojResolveAssemblyReference.cache
+S:\CodeFiles\e-PMS\MaterialManagement\obj\Debug\MaterialManagement.Form1.resources
+S:\CodeFiles\e-PMS\MaterialManagement\obj\Debug\MaterialManagement.Form2.resources
+S:\CodeFiles\e-PMS\MaterialManagement\obj\Debug\MaterialManagement.Form3.resources
+S:\CodeFiles\e-PMS\MaterialManagement\obj\Debug\MaterialManagement.Form4.resources
+S:\CodeFiles\e-PMS\MaterialManagement\obj\Debug\MaterialManagement.Properties.Resources.resources
+S:\CodeFiles\e-PMS\MaterialManagement\obj\Debug\e-PMSystem.csproj.GenerateResource.Cache
+S:\CodeFiles\e-PMS\MaterialManagement\obj\Debug\MaterialManagement.exe
+S:\CodeFiles\e-PMS\MaterialManagement\obj\Debug\MaterialManagement.pdb

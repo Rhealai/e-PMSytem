@@ -1,0 +1,17 @@
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\bin\Debug\MaterialManagement.exe.config
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\bin\Debug\MaterialManagement.exe
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\bin\Debug\MaterialManagement.pdb
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\bin\Debug\DealCamera.dll
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\bin\Debug\System.Data.SQLite.dll
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\bin\Debug\System.Data.SQLite.pdb
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\obj\Debug\MaterialManagement.Form1.resources
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\obj\Debug\MaterialManagement.Form2.resources
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\obj\Debug\MaterialManagement.Form3.resources
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\obj\Debug\MaterialManagement.Form4.resources
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\obj\Debug\MaterialManagement.Properties.Resources.resources
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\obj\Debug\MaterialManagement.csproj.GenerateResource.Cache
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\obj\Debug\MaterialManagement.exe
+D:\Users\Riolai\Documents\Visual Studio 2015\Projects\MaterialManagement\MaterialManagement\obj\Debug\MaterialManagement.pdb
+S:\CodeFiles\e-PMS\MaterialManagement\bin\Debug\MaterialManagement.exe.config
+S:\CodeFiles\e-PMS\MaterialManagement\obj\Debug\MaterialManagement.exe
+S:\CodeFiles\e-PMS\MaterialManagement\obj\Debug\MaterialManagement.pdb
